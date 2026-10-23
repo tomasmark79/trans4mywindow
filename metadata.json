@@ -3,12 +3,13 @@
 		"46",
 		"47",
 		"48",
-		"49"
+		"49",
+		"50"
 	],
 	"uuid": "trans4mywindow@digitalspace.name",
 	"name": "Trans4MyWindow",
 	"description": "Trans4MyWindow is a GNOME Shell extension that allows you to easily set transparency for the window. It provides a convenient way to adjust the transparency level of the active window, enhancing your workflow and allowing you to focus on specific tasks while keeping other windows visible in the background.",
-	"url": "https://github.com/tomamark79/trans4mywindow",
+	"url": "https://github.com/tomasmark79/trans4mywindow",
 	"settings-schema": "org.gnome.shell.extensions.trans4mywindow",
 	"donations": {
 		"paypal": "TomasMark"
