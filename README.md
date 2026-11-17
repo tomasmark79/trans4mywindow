@@ -15,7 +15,7 @@ optional filter for application WM classes.
 
 ## Requirements
 
-Declared GNOME Shell versions: **46–50**, as listed in `metadata.json`.
+Declared GNOME Shell versions: **46–51**, as listed in `metadata.json`.
 Preferences require GTK 4 and libadwaita. The interface is English.
 
 Build tools: Bash, Python 3, Node.js (syntax checks), zip and `glib-compile-schemas`.
